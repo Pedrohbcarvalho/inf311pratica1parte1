@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pratica1INF311Parte1</string>
+    <string name="valor_1">Valor 1:</string>
+    <string name="valor_2">Valor 2:</string>
+    <string name="mais">+</string>
+    <string name="menos">-</string>
+    <string name="vezes">*</string>
+    <string name="dividido">/</string>
+    <string name="resultado">O resultado é:</string>
+</resources>
